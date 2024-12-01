@@ -22,7 +22,7 @@ My current research focus on learning, characterizing, and evaluating Large Lang
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EACL 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/ACL_YAFU.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [What Have We Achieved on Non-autoregressive Translation? ](https://aclanthology.org/2024.findings-acl.452.pdf)
@@ -31,7 +31,7 @@ Yafu Li*, Huajian Zhang*, Jianhao Yan, Yongjing Yin, Yue Zhang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/acl_hj.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Leveraging Entailment Judgements in Cross-Lingual Summarisation](https://aclanthology.org/2024.findings-acl.862.pdf)
@@ -41,7 +41,7 @@ Huajian Zhang, Laura Perez-Beltrachini
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EACL 2024 (oral)</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EACL 2024 (oral)</div><img src='eacl' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fine-Grained Natural Language Inference Based Faithfulness Evaluation for Diverse Summarisation Tasks](https://aclanthology.org/2024.eacl-long.102.pdf)
@@ -50,7 +50,7 @@ Huajian Zhang, Yumo Xu, Laura Perez-Beltrachini
 
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2024 </div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2024 </div><img src='acl23' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Chain-of-Symbol Prompting For Spatial Reasoning in Large Language Models](https://arxiv.org/abs/2305.10276)
