@@ -51,7 +51,7 @@ Yafu Li\*, **Huajian Zhang**\*, Jianhao Yan, Yongjing Yin, Yue Zhang
 
 [Fine-Grained Natural Language Inference Based Faithfulness Evaluation for Diverse Summarisation Tasks](https://aclanthology.org/2024.eacl-long.102.pdf)
 
-**Huajian Zhang, Yumo Xu**, Laura Perez-Beltrachini
+**Huajian Zhang**, Yumo Xu, Laura Perez-Beltrachini
 
 </div>
 </div>
