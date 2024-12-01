@@ -27,7 +27,7 @@ My current research focus on learning, characterizing, and evaluating Large Lang
 
 [What Have We Achieved on Non-autoregressive Translation? ](https://aclanthology.org/2024.findings-acl.452.pdf)
 
-Yafu Li*, Huajian Zhang*, Jianhao Yan, Yongjing Yin, Yue Zhang
+Yafu Li\*, Huajian Zhang\*, Jianhao Yan, Yongjing Yin, Yue Zhang
 </div>
 </div>
 
@@ -41,7 +41,7 @@ Huajian Zhang, Laura Perez-Beltrachini
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EACL 2024 (oral)</div><img src='eacl' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EACL 2024 (oral)</div><img src='images/eacl' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fine-Grained Natural Language Inference Based Faithfulness Evaluation for Diverse Summarisation Tasks](https://aclanthology.org/2024.eacl-long.102.pdf)
@@ -50,7 +50,7 @@ Huajian Zhang, Yumo Xu, Laura Perez-Beltrachini
 
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2024 </div><img src='acl23' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2024 </div><img src='images/colm' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Chain-of-Symbol Prompting For Spatial Reasoning in Large Language Models](https://arxiv.org/abs/2305.10276)
@@ -59,7 +59,7 @@ Hanxu Hu, Hongyuan Lu, Huajian Zhang, Yun-Ze Song, Wai Lam, Yue Zhang
 
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023 </div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023 </div><img src='images/acl23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Revisiting Cross-Lingual Summarization : A Corpus-based Study and A New Benchmark with Improved Annotation](https://aclanthology.org/2023.acl-long.519v3.pdf)
@@ -70,10 +70,10 @@ Yulong Cheng, Huajian Zhang, Yijie Zhou, Xuefeng Bai, Yueguan Wang, Ming Zhong, 
 </div>
 
 # 🎖 Honors and Awards
-- *2022.10* Outstanding dissertation in School of Informatics, the University of Edinburgh [link](https://project-archive.inf.ed.ac.uk/msc/2022-outstanding.html)
+- *2022.10* Outstanding dissertation, School of Informatics, University of Edinburgh [link](https://project-archive.inf.ed.ac.uk/msc/2022-outstanding.html)
 
 # 📖 Educations
-- *2021.09 - 2022.08, Master, University of Edinburgh, UK  
+- *2021.09 - 2022.08*, Master, University of Edinburgh, UK  
 - *2017.09 - 2021.08*, Undergraduate, University of Leeds, UK 
 
 # 💻 Service
