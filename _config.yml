@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Huajian Zhang"
-description              : "threeee   asa s a sasadwve fwedwdewdwed "
+description              : ""
 repository               : "HJZnlp/HJZnlp.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  name             : "Huajian Zhang"
+  avatar           : "images/cv.png"
+  bio              : ""
+  location         : "Hangzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=niE2uWkAAAAJ"
-  email            : "Lorem@ipsum.com"
+  email            : "huajian.zhang98@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
