@@ -16,9 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am a research intern at Westlake University, supervised by Yue Zhang. I am also a research visitor at the University of Edinburgh, supervised by Laura Perez.  
+I am a research intern at Westlake University, supervised by Yue Zhang. I am also a research visitor at the University of Edinburgh, supervised by Laura Perez-Beltrachini.  
 
-My current research focus on learning, characterizing, and evaluating Large Language Models in stages of data, pretraining, and inference.
+My current research focuses on learning, characterizing, and evaluating Large Language Models in stages of data, pretraining, and inference.
 
 # 📝 Publications 
 
@@ -41,7 +41,7 @@ Huajian Zhang, Laura Perez-Beltrachini
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EACL 2024 (oral)</div><img src='images/eacl' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EACL 2024 (oral)</div><img src='images/eacl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fine-Grained Natural Language Inference Based Faithfulness Evaluation for Diverse Summarisation Tasks](https://aclanthology.org/2024.eacl-long.102.pdf)
@@ -50,7 +50,7 @@ Huajian Zhang, Yumo Xu, Laura Perez-Beltrachini
 
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2024 </div><img src='images/colm' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2024 </div><img src='images/colm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Chain-of-Symbol Prompting For Spatial Reasoning in Large Language Models](https://arxiv.org/abs/2305.10276)
