@@ -27,7 +27,7 @@ My current research focuses on learning, characterizing, and evaluating Large La
 
 [What Have We Achieved on Non-autoregressive Translation? ](https://aclanthology.org/2024.findings-acl.452.pdf)
 
-Yafu Li\*, Huajian Zhang\*, Jianhao Yan, Yongjing Yin, Yue Zhang
+Yafu Li\*, **Huajian Zhang**\*, Jianhao Yan, Yongjing Yin, Yue Zhang
 </div>
 </div>
 
@@ -36,7 +36,7 @@ Yafu Li\*, Huajian Zhang\*, Jianhao Yan, Yongjing Yin, Yue Zhang
 
 [Leveraging Entailment Judgements in Cross-Lingual Summarisation](https://aclanthology.org/2024.findings-acl.862.pdf)
 
-Huajian Zhang, Laura Perez-Beltrachini
+**Huajian Zhang**, Laura Perez-Beltrachini
 
 </div>
 </div>
@@ -46,7 +46,7 @@ Huajian Zhang, Laura Perez-Beltrachini
 
 [Fine-Grained Natural Language Inference Based Faithfulness Evaluation for Diverse Summarisation Tasks](https://aclanthology.org/2024.eacl-long.102.pdf)
 
-Huajian Zhang, Yumo Xu, Laura Perez-Beltrachini
+**Huajian Zhang, Yumo Xu**, Laura Perez-Beltrachini
 
 </div>
 </div>
@@ -55,7 +55,7 @@ Huajian Zhang, Yumo Xu, Laura Perez-Beltrachini
 
 [Chain-of-Symbol Prompting For Spatial Reasoning in Large Language Models](https://arxiv.org/abs/2305.10276)
 
-Hanxu Hu, Hongyuan Lu, Huajian Zhang, Yun-Ze Song, Wai Lam, Yue Zhang
+Hanxu Hu, Hongyuan Lu, **Huajian Zhang**, Yun-Ze Song, Wai Lam, Yue Zhang
 
 </div>
 </div>
@@ -64,7 +64,7 @@ Hanxu Hu, Hongyuan Lu, Huajian Zhang, Yun-Ze Song, Wai Lam, Yue Zhang
 
 [Revisiting Cross-Lingual Summarization : A Corpus-based Study and A New Benchmark with Improved Annotation](https://aclanthology.org/2023.acl-long.519v3.pdf)
 
-Yulong Cheng, Huajian Zhang, Yijie Zhou, Xuefeng Bai, Yueguan Wang, Ming Zhong, Jianhao Yan, Yafu Li, Judy Li, Michael Zhu, Yue Zhang
+Yulong Cheng, **Huajian Zhang**, Yijie Zhou, Xuefeng Bai, Yueguan Wang, Ming Zhong, Jianhao Yan, Yafu Li, Judy Li, Michael Zhu, Yue Zhang
 
 </div>
 </div>
