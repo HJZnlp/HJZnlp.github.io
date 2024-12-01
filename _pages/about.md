@@ -16,9 +16,14 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+
+Hello!
+
 I am a research intern at Westlake University, supervised by Yue Zhang. I am also a research visitor at the University of Edinburgh, supervised by Laura Perez-Beltrachini.  
 
 My current research focuses on learning, characterizing, and evaluating Large Language Models in stages of data, pretraining, and inference.
+
+I am looking for a Ph.D. position starting in Fall 2025!
 
 # 📝 Publications 
 
