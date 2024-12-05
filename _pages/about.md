@@ -77,7 +77,7 @@ Yulong Cheng, **Huajian Zhang**, Yijie Zhou, Xuefeng Bai, Yueguan Wang, Ming Zho
 # 🎖 Honors and Awards
 - *2022.10* Outstanding dissertation, School of Informatics, University of Edinburgh [link](https://project-archive.inf.ed.ac.uk/msc/2022-outstanding.html)
 
-# 📖 Educations
+# 📖 Education
 - *2021.09 - 2022.08*, Master, University of Edinburgh, UK  
 - *2017.09 - 2021.08*, Undergraduate, University of Leeds, UK 
 
