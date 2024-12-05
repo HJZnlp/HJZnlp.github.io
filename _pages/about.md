@@ -19,9 +19,9 @@ redirect_from:
 
 Hello!
 
-I am a research intern at Westlake University, supervised by Yue Zhang. I am also a research visitor at the University of Edinburgh, supervised by Laura Perez-Beltrachini.  
+I am a research intern at Westlake University, supervised by [Yue Zhang](https://frcchang.github.io/). I am also a research visitor at the University of Edinburgh, supervised by [Laura Perez-Beltrachini](https://homepages.inf.ed.ac.uk/lperez/).  
 
-My current research focuses on learning, characterizing, and evaluating Large Language Models in stages of data, pretraining, and inference.
+My current research focuses on learning, characterizing, and evaluating Large Language Models.
 
 I am looking for a Ph.D. position starting in Fall 2025!
 
